@@ -48,7 +48,6 @@
     <Compile Include="HandGestureBase.cs" />
     <Compile Include="HandDetectionType.cs" />
     <Compile Include="HandSliderControl.cs" />
-    <Compile Include="InputSmother.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimpleKinectGesturesEvents.cs" />
   </ItemGroup>
