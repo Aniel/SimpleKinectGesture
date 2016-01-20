@@ -1,0 +1,7 @@
+E:\UserFolders\Development\Workspaces\Kinect\SimpleKinectGestures\SimpleKinectGestures\bin\Debug\SimpleKinectGestures.dll
+E:\UserFolders\Development\Workspaces\Kinect\SimpleKinectGestures\SimpleKinectGestures\bin\Debug\SimpleKinectGestures.pdb
+E:\UserFolders\Development\Workspaces\Kinect\SimpleKinectGestures\SimpleKinectGestures\bin\Debug\Microsoft.Kinect.dll
+E:\UserFolders\Development\Workspaces\Kinect\SimpleKinectGestures\SimpleKinectGestures\bin\Debug\Microsoft.Kinect.xml
+E:\UserFolders\Development\Workspaces\Kinect\SimpleKinectGestures\SimpleKinectGestures\obj\Debug\SimpleKinectGestures.csprojResolveAssemblyReference.cache
+E:\UserFolders\Development\Workspaces\Kinect\SimpleKinectGestures\SimpleKinectGestures\obj\Debug\SimpleKinectGestures.dll
+E:\UserFolders\Development\Workspaces\Kinect\SimpleKinectGestures\SimpleKinectGestures\obj\Debug\SimpleKinectGestures.pdb
